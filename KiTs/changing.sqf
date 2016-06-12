@@ -2,15 +2,8 @@
 //Gamersroost
 
 
-titleText ["Changing...", "PLAIN",3]; titleFadeOut 0.5
-sleep 1.5;
-titleText ["Changing...", "PLAIN",3]; titleFadeOut 0.5
-sleep 1.5;
-titleText ["Changing...", "PLAIN",3]; titleFadeOut 0.5
-sleep 1.5;
-titleText ["Changing...", "PLAIN",3]; titleFadeOut 0.5
-sleep 1.5;
-titleText ["Changing...", "PLAIN",3]; titleFadeOut 0.5
-sleep 1.5;
-titleText ["Changing...", "PLAIN",3]; titleFadeOut 0.5
-sleep 1.5;
+for "_i" from 0 to 5 do
+{
+    titleText ["Changing...", "PLAIN",3]; titleFadeOut 0.5
+    uiSleep 1.5;
+};
