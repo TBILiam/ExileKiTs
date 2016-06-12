@@ -114,7 +114,7 @@ class controls {
 	class BackgroundOn: RscPictureLoadout
 		{
 			idc = 901;
-			text = "Custom\Loadout\Images\Xm8_Loadout_Background.paa";
+			text = "xm8apps\KiTs\Images\Xm8_Loadout_Background.paa";
 			x = 0.293777 * safezoneW + safezoneX;
 			y = 0.137015 * safezoneH + safezoneY;
 			w = 0.412446 * safezoneW;
@@ -131,7 +131,7 @@ class controls {
 	class LoadOut1: RscPictureLoadout
 		{
 			idc = 902;
-			text = "Custom\Loadout\Images\Default.paa";
+			text = "xm8apps\KiTs\Images\Default.paa";
 			x = 0.343777 * safezoneW + safezoneX;
 			y = 0.337015 * safezoneH + safezoneY;
 			w = 0.062446 * safezoneW;
@@ -161,7 +161,7 @@ class controls {
 	class LoadOut2: RscPictureLoadout
 		{
 			idc = 904;
-			text = "Custom\Loadout\Images\Default.paa";
+			text = "xm8apps\KiTs\Images\Default.paa";
 			x = 0.393777 * safezoneW + safezoneX;
 			y = 0.337015 * safezoneH + safezoneY;
 			w = 0.062446 * safezoneW;
@@ -191,7 +191,7 @@ class controls {
 	class LoadOut3: RscPictureLoadout																															
 		{
 			idc = 906;
-			text = "Custom\Loadout\Images\Default.paa";
+			text = "xm8apps\KiTs\Images\Default.paa";
 			x = 0.443777 * safezoneW + safezoneX;
 			y = 0.337015 * safezoneH + safezoneY;
 			w = 0.062446 * safezoneW;
@@ -221,7 +221,7 @@ class controls {
 	class LoadOut4: RscPictureLoadout
 		{
 			idc = 908;
-			text = "Custom\Loadout\Images\Default.paa";
+			text = "xm8apps\KiTs\Images\Default.paa";
 			x = 0.493777 * safezoneW + safezoneX;
 			y = 0.337015 * safezoneH + safezoneY;
 			w = 0.062446 * safezoneW;
@@ -251,7 +251,7 @@ class controls {
 	class LoadOut5: RscPictureLoadout
 		{
 			idc = 910;
-			text = "Custom\Loadout\Images\Default.paa";
+			text = "xm8apps\KiTs\Images\Default.paa";
 			x = 0.543777 * safezoneW + safezoneX;
 			y = 0.337015 * safezoneH + safezoneY;
 			w = 0.062446 * safezoneW;
@@ -281,7 +281,7 @@ class controls {
 	class LoadOut6: RscPictureLoadout
 		{
 			idc = 912;
-			text = "Custom\Loadout\Images\Default.paa";
+			text = "xm8apps\KiTs\Images\Default.paa";
 			x = 0.593777 * safezoneW + safezoneX;
 			y = 0.337015 * safezoneH + safezoneY;
 			w = 0.062446 * safezoneW;
@@ -311,7 +311,7 @@ class controls {
 	class LoadOut7: RscPictureLoadout
 		{
 			idc = 914;
-			text = "Custom\Loadout\Images\Default.paa";
+			text = "xm8apps\KiTs\Images\Default.paa";
 			x = 0.343777 * safezoneW + safezoneX;
 			y = 0.437015 * safezoneH + safezoneY;
 			w = 0.062446 * safezoneW;
@@ -341,7 +341,7 @@ class controls {
 	class LoadOut8: RscPictureLoadout
 		{
 			idc = 916;
-			text = "Custom\Loadout\Images\Default.paa";
+			text = "xm8apps\KiTs\Images\Default.paa";
 			x = 0.393777 * safezoneW + safezoneX;
 			y = 0.437015 * safezoneH + safezoneY;
 			w = 0.062446 * safezoneW;
@@ -371,7 +371,7 @@ class controls {
 	class LoadOut9: RscPictureLoadout
 		{
 			idc = 918;
-			text = "Custom\Loadout\Images\Default.paa";
+			text = "xm8apps\KiTs\Images\Default.paa";
 			x = 0.443777 * safezoneW + safezoneX;
 			y = 0.437015 * safezoneH + safezoneY;
 			w = 0.062446 * safezoneW;
@@ -401,7 +401,7 @@ class controls {
 	class LoadOut10: RscPictureLoadout
 		{
 			idc = 920;
-			text = "Custom\Loadout\Images\Default.paa";
+			text = "xm8apps\KiTs\Images\Default.paa";
 			x = 0.493777 * safezoneW + safezoneX;
 			y = 0.437015 * safezoneH + safezoneY;
 			w = 0.062446 * safezoneW;
@@ -431,7 +431,7 @@ class controls {
 	class LoadOut11: RscPictureLoadout
 		{
 			idc = 922;
-			text = "Custom\Loadout\Images\Default.paa";
+			text = "xm8apps\KiTs\Images\Default.paa";
 			x = 0.543777 * safezoneW + safezoneX;
 			y = 0.437015 * safezoneH + safezoneY;
 			w = 0.062446 * safezoneW;
@@ -461,7 +461,7 @@ class controls {
 	class LoadOut12: RscPictureLoadout
 		{
 			idc = 924;
-			text = "Custom\Loadout\Images\Default.paa";
+			text = "xm8apps\KiTs\Images\Default.paa";
 			x = 0.593777 * safezoneW + safezoneX;
 			y = 0.437015 * safezoneH + safezoneY;
 			w = 0.062446 * safezoneW;
@@ -491,7 +491,7 @@ class controls {
 	class LoadOut13: RscPictureLoadout
 		{
 			idc = 926;
-			text = "Custom\Loadout\Images\Default.paa";
+			text = "xm8apps\KiTs\Images\Default.paa";
 			x = 0.343777 * safezoneW + safezoneX;
 			y = 0.537015 * safezoneH + safezoneY;
 			w = 0.062446 * safezoneW;
@@ -521,7 +521,7 @@ class controls {
 	class LoadOut14: RscPictureLoadout
 		{
 			idc = 928;
-			text = "Custom\Loadout\Images\Default.paa";
+			text = "xm8apps\KiTs\Images\Default.paa";
 			x = 0.393777 * safezoneW + safezoneX;
 			y = 0.537015 * safezoneH + safezoneY;
 			w = 0.062446 * safezoneW;
@@ -551,7 +551,7 @@ class controls {
 	class LoadOut15: RscPictureLoadout
 		{
 			idc = 930;
-			text = "Custom\Loadout\Images\Default.paa";
+			text = "xm8apps\KiTs\Images\Default.paa";
 			x = 0.443777 * safezoneW + safezoneX;
 			y = 0.537015 * safezoneH + safezoneY;
 			w = 0.062446 * safezoneW;
@@ -581,7 +581,7 @@ class controls {
 	class LoadOut16: RscPictureLoadout
 		{
 			idc = 932;
-			text = "Custom\Loadout\Images\Default.paa";
+			text = "xm8apps\KiTs\Images\Default.paa";
 			x = 0.493777 * safezoneW + safezoneX;
 			y = 0.537015 * safezoneH + safezoneY;
 			w = 0.062446 * safezoneW;
@@ -611,7 +611,7 @@ class controls {
 	class LoadOut17: RscPictureLoadout
 		{
 			idc = 934;
-			text = "Custom\Loadout\Images\Default.paa";
+			text = "xm8apps\KiTs\Images\Default.paa";
 			x = 0.543777 * safezoneW + safezoneX;
 			y = 0.537015 * safezoneH + safezoneY;
 			w = 0.062446 * safezoneW;
@@ -641,7 +641,7 @@ class controls {
 	class LoadOut18: RscPictureLoadout
 		{
 			idc = 936;
-			text = "Custom\Loadout\Images\Default.paa";
+			text = "xm8apps\KiTs\Images\Default.paa";
 			x = 0.593777 * safezoneW + safezoneX;
 			y = 0.537015 * safezoneH + safezoneY;
 			w = 0.062446 * safezoneW;
@@ -679,6 +679,7 @@ class controls {
 
 
 	
+
 
 
 
